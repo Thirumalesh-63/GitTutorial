@@ -1,11 +1,11 @@
 package beans;
 
 public class Person {
-    int id1;
+    int id0;
 
-    String name1;
+    String name0;
 
-    int age1;
+    int age0;
 
-    int salary1;
+    int salary0;
 }
